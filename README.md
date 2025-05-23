@@ -7,11 +7,11 @@
 ## 🔧 Tech Stack
 
 ### Frontend:
-- React.js  
+- React.js  [https://job-opening-frontend.vercel.app/]
 - Material UI (MUI)
 
 ### Backend:
-- Node.js  
+- Node.js  [https://jobopeningbackend.onrender.com/]
 - MongoDB
 
 ---
