@@ -91,7 +91,7 @@ Mongoose – MongoDB object modeling for Node.js
 Chart.js / Recharts (optional) – For graphical dashboard insights
 
 dotenv – Environment variable management
-![Homepage Screenshot](screenshots/Home.png)
+![Homepage Screenshot](screenshots/MainPage.png)
 ![Homepage Screenshot](screenshots/Signin.png)
 ![Homepage Screenshot](screenshots/ForgotPassword.png)
 ![Homepage Screenshot](screenshots/NewPassword.png)
